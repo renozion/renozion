@@ -12,7 +12,3 @@
 - 💬 Ask me about: mediumship
 - ⚡ Fun fact: I fucking love mayo on pizza.
 
-
-
-[![Renozion stats](https://github-readme-stats.vercel.app/api?username=renozion)](https://github.com/renozion/renozion)
-
