@@ -8,7 +8,6 @@ Welcome to my profile
 - ⚡ Fun fact: I fucking love mayo on pizza.
 
 
-[![tryhackme stats](https://raw.githubusercontent.com/renozion/renozion/master/assets/thm_propic.png)]
 
 [![Renozion stats](https://github-readme-stats.vercel.app/api?username=renozion)](https://github.com/renozion/renozion)
->
+
