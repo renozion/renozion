@@ -10,5 +10,5 @@
 - 👯 I’m looking to collaborate on:  IOCs 
 
 - 💬 Ask me about: mediumship
-- ⚡ Fun fact: I fucking love mayo on pizza.
+- ⚡ Fun fact: I love homemade mayo on pizza.
 
