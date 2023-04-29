@@ -1,5 +1,5 @@
 ### Salve salve simpatia! 
-### Hi there 👋 this is renozion, I am a food server, electro-mechanical technician  and a blue team student.
+### Hi there 👋 this is renozion, I am a food server, Electro-Mechanical Technician  and a Blue Team student.
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/renozion.png" alt="TryHackMe">
