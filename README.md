@@ -5,8 +5,8 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/renozion.png" alt="TryHackMe">
 
 
-- 🔭 I’m currently working on studying: blue team
-- 🌱 I’m currently learning: java basic and rust
+- 🔭 I’m currently working on studying: ICS
+- 🌱 I’m currently learning: rust
 - 👯 I’m looking to collaborate on:  IOCs 
 
 - 💬 Ask me about: mediumship
