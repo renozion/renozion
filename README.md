@@ -5,7 +5,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/renozion.png" alt="TryHackMe">
 
 
-- 🔭 I’m currently working on studying: ICS
+- 🔭 I’m currently working on studying: OT/ICS, networking, ModBus, Profibus 
 - 🌱 I’m currently learning: rust
 - 👯 I’m looking to collaborate on:  IOCs 
 
