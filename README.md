@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently studying: OT/ICS, networking, ModBus, Profibus, SIEM 
-- 🌱 I’m currently learning: rust
 - 👯 I’m looking to collaborate on:  IOCs 
 
 - 💬 Ask me about: mediumship
