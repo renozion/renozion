@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently studying: OT/ICS, networking, ModBus, Profibus, SIEM 
-- 👯 I’m looking to collaborate on:  IOCs 
+- 👯 I’m looking to collaborate on:  IOC 
 
 - 💬 Ask me about: mediumship
 - ⚡ Fun fact: I love homemade mayo on pizza.
