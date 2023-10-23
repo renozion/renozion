@@ -3,7 +3,7 @@
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/renozion.png" alt="TryHackMe">
-
+<script src="https://tryhackme.com/badge/253941"></script>
 
 - 🔭 I’m currently studying: OT/ICS, networking, ModBus, Profibus, SIEM 
 - 👯 I’m looking to collaborate on:  IOC 
