@@ -11,3 +11,4 @@
 - 💬 Ask me about: mediumship
 - ⚡ Fun fact: I love homemade mayo on pizza.
 
+"I mourn that privacy be respected, on cell phones, in location, in what makes you unique."
