@@ -11,4 +11,4 @@
 - 💬 Ask me about: mediumship
 - ⚡ Fun fact: I love homemade mayo on pizza.
 
-"I fight that privacy be respected, on cell phones, in location, in what makes you unique."
+"I fight that privacy be respected, on cell phones, in location, in what makes you unique"
