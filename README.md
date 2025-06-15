@@ -8,4 +8,6 @@
 - ⚡ Fun fact: I love homemade mayo on pizza.
 
 "I fight that privacy be respected, on cell phones, in location, in what makes you unique"
+
+
 Im on instagram: @canaldoreno.ics  every monday i post CISA warnings, stay tuned!
